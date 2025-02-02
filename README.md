@@ -1,2 +1,2 @@
-# PRACTINI_ReneGutierrez_202300540
-Practicas Iniciales 
+# Practicas Iniciales C 1S 
+Renè Sebastian Gutièrrez Contreras
