@@ -118,7 +118,7 @@ Una **laptop** es un ordenador portátil que integra todos los componentes esenc
 
 <img src="https://github.com/user-attachments/assets/817df84a-a905-4e2b-946c-b488204b1947" alt="image" width="500" />
 
-📹 **Video recomendado:** [Cómo hacer mantenimiento a una laptop paso a paso](https://youtu.be/5C1dhLho4N4?si=cWzrOHxoUvS6Ssax)
+📹 **Video recomendado:** 🎬[Cómo hacer mantenimiento a una laptop paso a paso](https://youtu.be/5C1dhLho4N4?si=cWzrOHxoUvS6Ssax)🎬
 
 ✅ **Este video te ayudará a mantener tu laptop en óptimas condiciones. ¡Sigue estos pasos y tendrás un equipo rápido y funcional por mucho tiempo!** 🚀
 
