@@ -10,6 +10,8 @@ Una **laptop** es un ordenador portátil que integra todos los componentes esenc
 
 ## 🔧 Componentes Principales y su Cuidado
 
+<img src="https://github.com/user-attachments/assets/37a96100-1408-4975-8f85-4f6561d9591b" alt="image" width="500" />
+
 ### 1️⃣ Procesador (CPU)
 - **Función:** Es el cerebro de la computadora, encargado de procesar instrucciones y ejecutar programas.
 - **Cuidado:**
@@ -114,7 +116,7 @@ Una **laptop** es un ordenador portátil que integra todos los componentes esenc
 3. Evitar redes WiFi públicas sin protección.
 4. Usar contraseñas seguras y autenticación en dos pasos.
 
----
+<img src="https://github.com/user-attachments/assets/817df84a-a905-4e2b-946c-b488204b1947" alt="image" width="500" />
 
 📹 **Video recomendado:** [Cómo hacer mantenimiento a una laptop paso a paso](https://youtu.be/5C1dhLho4N4?si=cWzrOHxoUvS6Ssax)
 
@@ -137,7 +139,8 @@ Una **laptop** es un ordenador portátil que integra todos los componentes esenc
 ### PROMPT: 
 :pushpin: Prompt donde se le solicito la información "para Manual y Reporte"
 
-<img src="https://github.com/user-attachments/assets/d91b6b24-889e-4695-ac43-5da51fd3b003" alt="image" width="500" />
+<img src="https://github.com/user-attachments/assets/cc411d9b-d55f-4d4a-b5b9-e539662f2698" alt="image" width="500" />
+
 
 ---
 
