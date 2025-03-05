@@ -1,3 +1,6 @@
-# Practicas Iniciales C 1S 
-202300540
-Renè Sebastian Gutièrrez Contreras
+# Informe 2: "INSTALACION Y REDES"
+## PRIMER VIDEO:
+https://youtu.be/vbYz1UJGcyg?si=LTk8PeDVuSd4KD2Z
+## SEGUNDO VIDEO:
+https://youtu.be/
+
