@@ -1,74 +1,84 @@
-# Manual de Usuario
+# 📘 Manual de Usuario
 
-## Aplicación Web de Calificación de Catedráticos y Cursos
+## 🚀 Aplicación Web de Calificación de Catedráticos y Cursos
 
-Este manual tiene como objetivo guiar a los usuarios en el uso de la aplicación web desarrollada para calificar catedráticos y cursos de la Facultad de Ingeniería de la Universidad de San Carlos de Guatemala.
-
----
-
-## Índice
-
-1. [Inicio de Sesión](#inicio-de-sesión)
-2. [Registro de Usuario](#registro-de-usuario)
-3. [Recuperación de Contraseña](#recuperación-de-contraseña)
-4. [Pantalla Principal](#pantalla-principal)
-5. [Crear Publicación](#crear-publicación)
-6. [Comentarios en Publicaciones](#comentarios-en-publicaciones)
-7. [Ver Perfil](#ver-perfil)
-8. [Cursos Aprobados](#cursos-aprobados)
-9. [Filtros de Búsqueda](#filtros-de-búsqueda)
-10. [Cerrar Sesión](#cerrar-sesión)
+Bienvenido al manual de usuario de la aplicación web desarrollada para calificar catedráticos y cursos de la **Facultad de Ingeniería de la Universidad de San Carlos de Guatemala**. Este manual te guiará paso a paso en el uso de todas las funcionalidades de la aplicación.
 
 ---
 
-## 1. Inicio de Sesión
+## 📑 Índice
 
-Para acceder a la aplicación, el usuario debe iniciar sesión con sus credenciales.
+1. [Inicio de Sesión](#-inicio-de-sesión)
+2. [Registro de Usuario](#-registro-de-usuario)
+3. [Recuperación de Contraseña](#-recuperación-de-contraseña)
+4. [Pantalla Principal](#-pantalla-principal)
+5. [Crear Publicación](#-crear-publicación)
+6. [Comentarios en Publicaciones](#-comentarios-en-publicaciones)
+7. [Ver Perfil](#-ver-perfil)
+8. [Cursos Aprobados](#-cursos-aprobados)
+9. [Filtros de Búsqueda](#-filtros-de-búsqueda)
+10. [Cerrar Sesión](#-cerrar-sesión)
 
-1. Ingresa a la página de inicio de sesión.
-2. Introduce tu **Registro Académico** y **Contraseña**.
+---
+
+## 🔐 Inicio de Sesión
+
+Para acceder a la aplicación, sigue estos pasos:
+
+1. Ingresa a la página de **Inicio de Sesión**.
+2. Introduce tus credenciales:
+   - **Registro Académico**
+   - **Contraseña**
 3. Haz clic en el botón **Iniciar Sesión**.
 4. Si las credenciales son correctas, serás redirigido a la **Pantalla Principal**.
 
+> **Nota:** Si no tienes una cuenta, regístrate [aquí](#-registro-de-usuario).
+
 ---
 
-## 2. Registro de Usuario
+## 📝 Registro de Usuario
 
-Si eres un nuevo usuario, debes registrarte para poder utilizar la aplicación.
+Si eres un nuevo usuario, regístrate para poder utilizar la aplicación.
 
-1. En la página de inicio de sesión, haz clic en **Registrarse**.
+1. En la página de **Inicio de Sesión**, haz clic en **Registrarse**.
 2. Completa el formulario con los siguientes datos:
-   - **Registro Académico**
-   - **Nombres**
-   - **Apellidos**
-   - **Contraseña**
-   - **Correo Electrónico**
+
+   | Campo               | Descripción                     |
+   |---------------------|---------------------------------|
+   | **Registro Académico** | Tu número de registro académico |
+   | **Nombres**           | Tus nombres completos           |
+   | **Apellidos**         | Tus apellidos completos         |
+   | **Contraseña**        | Una contraseña segura           |
+   | **Correo Electrónico**| Tu correo electrónico válido    |
+
 3. Haz clic en **Registrar**.
-4. Una vez completado el registro, serás redirigido a la página de inicio de sesión.
+4. Una vez completado el registro, serás redirigido a la página de **Inicio de Sesión**.
 
 ---
 
-## 3. Recuperación de Contraseña
+## 🔑 Recuperación de Contraseña
 
-Si olvidaste tu contraseña, puedes recuperarla siguiendo estos pasos:
+Si olvidaste tu contraseña, sigue estos pasos para recuperarla:
 
-1. En la página de inicio de sesión, haz clic en **¿Olvidó su contraseña?**.
-2. Introduce tu **Registro Académico** y **Correo Electrónico**.
-3. Si los datos coinciden, podrás establecer una nueva contraseña.
+1. En la página de **Inicio de Sesión**, haz clic en **¿Olvidó su contraseña?**.
+2. Introduce los siguientes datos:
+   - **Registro Académico**
+   - **Correo Electrónico**
+3. Si los datos coinciden, podrás establecer una **nueva contraseña**.
 4. Si los datos no coinciden, se mostrará un mensaje de error.
 
 ---
 
-## 4. Pantalla Principal
+## 🏠 Pantalla Principal
 
-La **Pantalla Principal** es el corazón de la aplicación. Aquí se muestran todas las publicaciones realizadas por los usuarios.
+La **Pantalla Principal** es el centro de la aplicación. Aquí se muestran todas las publicaciones realizadas por los usuarios.
 
-- Las publicaciones se ordenan por fecha, mostrando las más recientes primero.
-- Puedes aplicar filtros para buscar publicaciones específicas (ver sección [Filtros de Búsqueda](#filtros-de-búsqueda)).
+- Las publicaciones se ordenan por **fecha**, mostrando las más recientes primero.
+- Puedes aplicar **filtros** para buscar publicaciones específicas (ver sección [Filtros de Búsqueda](#-filtros-de-búsqueda)).
 
 ---
 
-## 5. Crear Publicación
+## 📢 Crear Publicación
 
 Para crear una nueva publicación:
 
@@ -82,7 +92,7 @@ Para crear una nueva publicación:
 
 ---
 
-## 6. Comentarios en Publicaciones
+## 💬 Comentarios en Publicaciones
 
 Cada publicación puede tener comentarios de otros usuarios.
 
@@ -93,7 +103,7 @@ Cada publicación puede tener comentarios de otros usuarios.
 
 ---
 
-## 7. Ver Perfil
+## 👤 Ver Perfil
 
 Puedes ver el perfil de otros usuarios o el tuyo propio.
 
@@ -101,11 +111,11 @@ Puedes ver el perfil de otros usuarios o el tuyo propio.
 2. Si el usuario existe, serás redirigido a su perfil.
 3. En tu propio perfil, puedes:
    - Ver tu información personal.
-   - Modificar tus datos (excepto el Registro Académico).
+   - Modificar tus datos (excepto el **Registro Académico**).
 
 ---
 
-## 8. Cursos Aprobados
+## 📚 Cursos Aprobados
 
 En el perfil de un usuario, puedes ver los cursos que ha aprobado.
 
@@ -119,28 +129,30 @@ En el perfil de un usuario, puedes ver los cursos que ha aprobado.
 
 ---
 
-## 9. Filtros de Búsqueda
+## 🔍 Filtros de Búsqueda
 
 En la **Pantalla Principal**, puedes aplicar filtros para encontrar publicaciones específicas.
 
-- **Filtrar por Curso**: Muestra publicaciones relacionadas con un curso específico.
-- **Filtrar por Catedrático**: Muestra publicaciones relacionadas con un catedrático específico.
-- **Filtrar por Nombre de Curso**: Busca publicaciones por el nombre del curso.
-- **Filtrar por Nombre de Catedrático**: Busca publicaciones por el nombre del catedrático.
+| Filtro                  | Descripción                                     |
+|-------------------------|-------------------------------------------------|
+| **Filtrar por Curso**    | Muestra publicaciones relacionadas con un curso específico. |
+| **Filtrar por Catedrático** | Muestra publicaciones relacionadas con un catedrático específico. |
+| **Filtrar por Nombre de Curso** | Busca publicaciones por el nombre del curso. |
+| **Filtrar por Nombre de Catedrático** | Busca publicaciones por el nombre del catedrático. |
 
 ---
 
-## 10. Cerrar Sesión
+## 🚪 Cerrar Sesión
 
 Para cerrar sesión:
 
 1. Haz clic en el ícono de perfil en la esquina superior derecha.
 2. Selecciona **Cerrar Sesión**.
-3. Serás redirigido a la página de inicio de sesión.
+3. Serás redirigido a la página de **Inicio de Sesión**.
 
 ---
 
-## Preguntas Frecuentes
+## ❓ Preguntas Frecuentes
 
 ### ¿Qué hago si no puedo iniciar sesión?
 - Verifica que tu **Registro Académico** y **Contraseña** sean correctos.
@@ -153,3 +165,4 @@ Para cerrar sesión:
 - No, el **Registro Académico** no puede ser modificado una vez registrado.
 
 ---
+
